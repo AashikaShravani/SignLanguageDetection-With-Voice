@@ -46,4 +46,4 @@ This technology has significant potential to enhance communication for the deaf 
   <p align = "Center" >
     <img src = "https://github.com/AashikaShravani/SignLanguageDetection-With-Voice/assets/140937457/ff3d4f34-7e4f-49c9-9e94-391755481cb4" >
   </p>  
->>>>>>> origin/main
+
